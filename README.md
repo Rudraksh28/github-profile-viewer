@@ -19,6 +19,9 @@ GitHub User Information Retrieval is a simple web application that allows users 
 3. Enter a GitHub username in the search bar and click the search button.
 4. Explore the user information displayed on the page.
 
+## Live Demo
+Check out the live hosted version of the project [here](https://github-user-a4c88.web.app/).
+
 ## Screenshots
 ![Screenshot (259)](https://github.com/Rudraksh28/github-profile-viewer/assets/155412000/be010413-f1de-40ec-ada5-92cfd8be9ded)
 ![Screenshot (260)](https://github.com/Rudraksh28/github-profile-viewer/assets/155412000/384ae9c5-2f14-4ce2-aac5-27a88b716278)
